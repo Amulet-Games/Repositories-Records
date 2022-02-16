@@ -1,5 +1,5 @@
 # Repositories-Records
-Used to find all the created repositories.
+Use this to find all the created repositories.
 
 Game Repositories: <br />
   - 2D Tower Defense <br />
