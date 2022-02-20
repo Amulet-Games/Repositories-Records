@@ -1,10 +1,10 @@
 # Repositories-Records
 Use this to find all the created repositories.
 
-Game Repositories: <br />
+Game's Source Codes repositories: <br />
+  - Volun's Tale <br />
   - 2D Tower Defense <br />
   - Space Escape <br />
-  - Volun's Tale <br />
 
-Tools Repositories: <br />
+Unity Tools repositories: <br />
   - Unity Editor ReadOnly Field (Custom Attribute)
